@@ -8,7 +8,7 @@ import (
 	"syscall"
 
 	"github.com/bwmarrin/discordgo"
-	"github.com/jake-t-dev/docker-discord-go/internal/bot/handlers"
+	"github.com/jake-t-dev/lootget/internal/bot/handlers"
 )
 
 type Bot struct {

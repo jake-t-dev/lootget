@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 
-	"github.com/jake-t-dev/docker-discord-go/internal/bot"
-	"github.com/jake-t-dev/docker-discord-go/internal/config"
+	"github.com/jake-t-dev/lootget/internal/bot"
+	"github.com/jake-t-dev/lootget/internal/config"
 )
 
 func main() {
